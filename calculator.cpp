@@ -6,6 +6,8 @@ int a, b;
   cin>> a>> b;
 
   cout<<"Sum="<<a+b<<endl;
+
+  cout<<"Subbtraction="<<a-b<<endl;
   
 
 
