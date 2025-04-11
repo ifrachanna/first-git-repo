@@ -8,6 +8,7 @@ int a, b;
   cout<<"Sum="<<a+b<<endl;
 
   cout<<"Subbtraction="<<a-b<<endl;
+  cout<<"Multiplication="<<a*b<<endl;
   
 
 
