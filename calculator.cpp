@@ -9,6 +9,9 @@ int a, b;
 
   cout<<"Subbtraction="<<a-b<<endl;
   cout<<"Multiplication="<<a*b<<endl;
+  cout<<"Division="<<a/b<<endl;
+
+  return 0;
   
 
 
